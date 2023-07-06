@@ -1,5 +1,7 @@
 NOTE: This repo contains free version features.
 
+![image](https://user-images.githubusercontent.com/14031295/170217467-01249753-6213-40c1-87b6-c39aa762f6cf.png)
+
 ## What is Pika?
 
 Pika is a web app to transform RAW screenshots 
@@ -54,4 +56,10 @@ First, run the development server:
 
 ## License
 
-[Here](https://github.com/rishimohan/pika/blob/main/license.txt)
+[Here](https://github.com/rishimohan/pika/blob/main/license.md)
+
+## Assets
+
+![pika-filled-circle](https://user-images.githubusercontent.com/14031295/198069686-4b0853cf-f11f-4aab-9ceb-08c37f61a459.png)
+
+
